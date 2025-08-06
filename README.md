@@ -1,1 +1,1 @@
-# stajdokumantasyonu
+Staj da yaptığımız Çalışmalar
